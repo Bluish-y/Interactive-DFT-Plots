@@ -2,9 +2,13 @@
 
 This Python script plots the Discrete Fourier Transform (DFT) of a sequence alongside the sequence itself.
 
-## Initiation
+## Initializing
 
 To specify a sequence `x[n]`, modify the array `x` in the script before running it.
+
+### Buttons
+- **Print Button**: Prints the current values of `x[n]`, `X[k]`, and the phases of `X[k]` on the terminal.
+- **Reset Button**: Resets all values of `x[n]` to `0`.
 
 ## Plot Details
 
